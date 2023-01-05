@@ -1,0 +1,7 @@
+pickle
+streamlit_elements
+streamlit
+spotipy
+cv2
+numpy
+pyautogui
