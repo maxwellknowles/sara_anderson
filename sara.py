@@ -5,8 +5,6 @@ import streamlit as st
 import streamlit.components.v1 as components
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import numpy as np
-import pyautogui
 
 #Authentication - without user
 cid = st.secrets["cid"]
