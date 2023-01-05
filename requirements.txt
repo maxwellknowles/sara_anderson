@@ -1,6 +1,6 @@
 streamlit_elements
 streamlit
 spotipy
-cv2
+opencv-python
 numpy
 pyautogui
